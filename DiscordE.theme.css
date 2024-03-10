@@ -19,7 +19,7 @@
 .theme-dark {
   /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
      To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://media.discordapp.net/attachments/1163276597315506247/1199139183839682631/9K4gaQ.png);
+  --dplus-backdrop: url(https://github.com/Meh-19/mehspaks/blob/main/9K4gaQ.png?raw=true);
   /* --dplus-backdrop: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg); */
 
   /* Accent color, used to decorate the UI with colors. */
